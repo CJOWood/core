@@ -4575,6 +4575,12 @@
       "config_flow": true,
       "iot_class": "local_push"
     },
+    "ryobi_garage": {
+      "name": "Ryobi Garage Door Opener",
+      "integration_type": "hub",
+      "config_flow": false,
+      "iot_class": "cloud_push"
+    },
     "sabnzbd": {
       "name": "SABnzbd",
       "integration_type": "hub",

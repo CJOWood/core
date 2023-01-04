@@ -1791,6 +1791,9 @@ wallbox==0.4.12
 # homeassistant.components.folder_watcher
 watchdog==2.2.0
 
+# homeassistant.components.ryobi_garage
+websocket-client==1.4.2
+
 # homeassistant.components.whirlpool
 whirlpool-sixth-sense==0.17.0
 
